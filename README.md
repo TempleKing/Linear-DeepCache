@@ -19,7 +19,7 @@ To reproduce our results, we recommend following these steps to manage compute r
 ```bash
 pip install diffusers transformers accelerate DeepCache
 ```
-### 2. Generate a **Read Token** in your [Hugging Face Settings](https://huggingface.co/settings/tokens).
+### 2. Generate a **Read Token** in your [Hugging Face Settings](https://huggingface.co/settings/tokens)
 
 ### 3. Dataset Preparation (Recommended)
 
