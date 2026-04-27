@@ -8,7 +8,7 @@ This repository presents **Linear-DeepCache**, an optimization strategy that enh
 ## 🏆 Key Research Highlights
 The core of this project is the discovery that U-Net feature evolution in SDXL is non-uniform. By dense-sampling at the early stages and sparse-sampling later (Linear Schedule), we significantly mitigate feature drift.
 
-- **[Read the Full Technical Report](./Linear_Distribution_Cache_paper.pdf)**: Our comprehensive 11-page analysis, including methodology aand final conclusions.
+- **[Read the Full Technical Report](./Linear_Distribution_Cache_paper.pdf)**: Our comprehensive 11-page analysis, including methodology and final conclusions.
 ---
 
 ## 🚀 Quick Start Guide
